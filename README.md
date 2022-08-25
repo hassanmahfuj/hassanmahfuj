@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on A non-organization application
-- 🌱 I’m currently learning Java Advance
+- 🔭 I’m currently working on A Non-profit Organization Application
+- 🌱 I’m currently learning Java Advance Features
 - 💬 Ask me about anything
 
 <!--
