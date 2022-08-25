@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-🔭 I’m currently working on A non-organization application
-🌱 I’m currently learning Java Advance
-💬 Ask me about anything
+- 🔭 I’m currently working on A non-organization application
+- 🌱 I’m currently learning Java Advance
+- 💬 Ask me about anything
 
 <!--
 **hassanmahfuj/hassanmahfuj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
