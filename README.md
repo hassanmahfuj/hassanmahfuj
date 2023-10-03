@@ -75,6 +75,15 @@ HR Management System is software which satisfies the needs of the Human Resource
 
 The project aims to simplify the process of switching between Access Point (AP) and Station (STA) modes on the ESP8266 NodeMCU module, making it more user-friendly and versatile for IoT and wireless networking applications. The project addresses the need for quick and hassle-free transitions between these modes, which are essential for IoT devices to connect to existing networks or establish their networks for other devices to connect.
 
+### Snowball Showdown - Online Game
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
+[![Source Code Badge](https://img.shields.io/badge/Source%20Code-purple?style=flat-square)](https://github.com/hassanmahfuj/Snowball-Showdown-Online-Game)
+[![Play Now](https://img.shields.io/badge/Play%20Now-F36633?style=flat-square&logo=googleplay)](https://hassanmahfuj.github.io/Snowball-Showdown-Online-Game)
+
+This is a thrilling two-player web game where you take on the role of either the red or blue player. Move your character vertically and throw snowballs at your opponent to score points. The first player to reach 15 points wins the game. With strategic movement and precise aim, it's a test of reflexes and accuracy in a fun snowball battle.
+
 ### ChaterApp Android and Firebase
 ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)
