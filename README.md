@@ -64,7 +64,7 @@ This project aims to create a comprehensive online marketplace platform that all
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
 ![Windows](https://img.shields.io/badge/-Windows-0078D7?style=flat-square&logo=windows10)
 ![MySQL](https://img.shields.io/badge/-MySQL-0074C1?style=flat-square&logo=mysql&logoColor=white)
-[![Source Code Badge](https://img.shields.io/badge/Source%20Code-purple?style=flat-square)](https://github.com/hassanmahfuj/Close-Me-If-You-Can)
+[![Source Code Badge](https://img.shields.io/badge/Source%20Code-purple?style=flat-square)](https://github.com/hassanmahfuj/HR-Glance)
 
 HR Management System is software which satisfies the needs of the Human Resources Department of a company to manage employees' personal data (citizen identity number, name, surname, birthdate, educational information etc.), timings, holidays, annual leaves, payroll and so on. My HR Management System will meet the needs for managing the personal data, attendance, leaves, payroll of an employee.
 
